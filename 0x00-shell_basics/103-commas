@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -Fd1 | sort -t -k2n -k3n | uniq -d | sort -t -k1n -k2n
+ls -1, | tr '\n' ','
