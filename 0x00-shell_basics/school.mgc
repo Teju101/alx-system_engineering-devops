@@ -1,3 +1,2 @@
 #!/bin/bash
-cat > school.mgc
-1school M SCHOOL '\0'
+1school M SCHOOL \0
