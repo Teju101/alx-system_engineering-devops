@@ -1,2 +1,2 @@
 #!/bin/bash
-1school M SCHOOL \0
+file -f school.mgc data.txt
