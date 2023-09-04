@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n iacta > iactaa
+tail -1 iacta >> iactaa
