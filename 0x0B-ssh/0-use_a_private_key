@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# Script that does something
+ssh ubuntu@54.197.21.177 -i ~/.ssh/school
